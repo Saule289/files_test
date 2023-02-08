@@ -1,0 +1,19 @@
+{
+  "name": "Cake",
+  "price": 1.55,
+  "batters": [
+    "regular",
+    "chocolate",
+    "blueberry"
+  ],
+  "topping": [
+    "None",
+    "Glazed",
+    "Sugar",
+    "Powdered Sugar",
+    "Chocolate with Sprinkles",
+    "Chocolate",
+    "Maple"
+  ],
+  "in_stock": true
+}
